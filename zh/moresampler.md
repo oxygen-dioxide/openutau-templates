@@ -1,5 +1,5 @@
 # moresampler
-[下载](moresampler.ustx)
+[下载这个模板](moresampler.ustx)
 ## 参数列表
 ### 数值型
 |名称|Flag|最小值|最大值|默认值|说明|

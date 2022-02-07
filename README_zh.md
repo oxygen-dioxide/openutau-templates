@@ -3,4 +3,4 @@
 ## 模板列表
 |引擎|下载|
 |-|-|
-|[moresampler](zh\moresampler.md)|[下载](zh\moresampler.ustx)|
+|[moresampler](zh/moresampler.md)|[下载](zh/moresampler.ustx)|
