@@ -1,0 +1,164 @@
+﻿name: New Project
+comment: ''
+output_dir: Vocal
+cache_dir: UCache
+ustx_version: 0.5
+bpm: 120
+beat_per_bar: 4
+beat_unit: 4
+resolution: 480
+expressions:
+  vel:
+    name: velocity
+    abbr: vel
+    type: Numerical
+    min: 0
+    max: 200
+    default_value: 100
+    is_flag: false
+    flag: ''
+  vol:
+    name: volume
+    abbr: vol
+    type: Numerical
+    min: 0
+    max: 200
+    default_value: 100
+    is_flag: false
+    flag: ''
+  atk:
+    name: attack
+    abbr: atk
+    type: Numerical
+    min: 0
+    max: 200
+    default_value: 100
+    is_flag: false
+    flag: ''
+  dec:
+    name: decay
+    abbr: dec
+    type: Numerical
+    min: 0
+    max: 100
+    default_value: 0
+    is_flag: false
+    flag: ''
+  clr:
+    name: voice color
+    abbr: clr
+    type: Options
+    min: 0
+    max: 0
+    default_value: 0
+    is_flag: false
+    options:
+    - ''
+  eng:
+    name: resampler engine
+    abbr: eng
+    type: Options
+    min: 0
+    max: 1
+    default_value: 0
+    is_flag: false
+    options:
+    - ''
+    - worldline64.exe
+  gen:
+    name: 性别
+    abbr: gen
+    type: Numerical
+    min: -100
+    max: 100
+    default_value: 0
+    is_flag: true
+    flag: g
+  bre:
+    name: 气声
+    abbr: bre
+    type: Numerical
+    min: 0
+    max: 100
+    default_value: 50
+    is_flag: true
+    flag: B
+  lpf:
+    name: lowpass
+    abbr: lpf
+    type: Numerical
+    min: 0
+    max: 100
+    default_value: 0
+    is_flag: true
+    flag: H
+  mod:
+    name: modulation
+    abbr: mod
+    type: Numerical
+    min: 0
+    max: 100
+    default_value: 0
+    is_flag: false
+    flag: ''
+  alt:
+    name: alternate
+    abbr: alt
+    type: Numerical
+    min: 0
+    max: 16
+    default_value: 0
+    is_flag: false
+    flag: ''
+  shft:
+    name: tone shift
+    abbr: shft
+    type: Numerical
+    min: -36
+    max: 36
+    default_value: 0
+    is_flag: false
+    flag: ''
+  压限:
+    name: 压限
+    abbr: 压限
+    type: Numerical
+    min: 0
+    max: 100
+    default_value: 86
+    is_flag: true
+    flag: P
+  线程数:
+    name: 线程数
+    abbr: 线程数
+    type: Numerical
+    min: 1
+    max: 8
+    default_value: 2
+    is_flag: true
+    flag: S
+  n:
+    name: 关闭共振峰滤波器
+    abbr: n
+    type: Options
+    min: 0
+    max: 1
+    default_value: 0
+    is_flag: true
+    options:
+    - ''
+    - N
+  倒放:
+    name: 倒放
+    abbr: 倒放
+    type: Options
+    min: 0
+    max: 1
+    default_value: 0
+    is_flag: true
+    options:
+    - ''
+    - R
+tracks: []
+voice_parts: []
+wave_parts: []
