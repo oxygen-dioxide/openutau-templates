@@ -1,4 +1,11 @@
 # OpenUTAU模板库
+[Github](https://github.com/oxygen-dioxide/openutau-templates/blob/main/README_zh.md) | 
+[Gitee](https://gitee.com/oxygendioxide/openutau-templates/blob/main/README_zh.md) | 
+[Gitlab](https://gitlab.com/oxygen-dioxide/openutau-templates/-/blob/main/README_zh.md) | 
+[Bitbucket](https://bitbucket.org/oxygendioxide/openutau-templates/src/main/README_zh.md) | 
+[Coding](https://oxygen-dioxide.coding.net/public/1/openutau-templates/git/files)
+
+
 适用于不同UTAU引擎flag的[OpenUTAU](https://github.com/stakira/OpenUtau)工程模板。
 
 本仓库欢迎Pull request。你可以从以下方面为本仓库进行贡献：
